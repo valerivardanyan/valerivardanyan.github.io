@@ -1,9 +1,9 @@
 # Site Settings
-title: Welcome
+title: "My Cosmology Website"
 email: vardanyanv@gmail.com
 description: >
   My personal website.
-baseurl: ""
+baseurl: "/"
 url: "http://valerivardanyan.github.io"
 github_username:  valerivardanyan
 # Build Settings
