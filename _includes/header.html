@@ -3,7 +3,11 @@
 		<nav>
 			<ul>
 				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				<li>
+					<figure>
+					  <img src="../_files/Prof_Pic.jpg" width="304" height="228">
+					</figure>
+				</li>
 				{% endif %} {% endfor %}
 			</ul>
 			</li>
