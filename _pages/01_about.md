@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Valeri. My work is in the field of cosmology -- mostly concentrating on theoretical and phenomenological aspects. Currently I am postdoctoral fellow at Kavli IPMU, in the group of Misa Sasaki.
-
-
-
-I am a [de Sitter PhD fellow](http://leidendesitter.nl/de_Sitter/Welcome.html) at the [Lorentz Institute of Theoretical Physics](https://www.lorentz.leidenuniv.nl/) and at [Sterrewacht Leiden](https://local.strw.leidenuniv.nl/). My work is in the field of cosmology and is carried out in the groups of Ana Achucarro and Alessandra Silvestri. I have done my undergraduate studies at the faculty of physics of Yerevan State University, Armenia and my master studies at the Institute for Theoretical Physics, Heidelberg. For more details on my academic biography see [my CV](https://wwwhome.lorentz.leidenuniv.nl/~vardanyan/files/Valeri_Vardanyan_CV.pdf).
+I am a cosmologist at Kavli IPMU. My work is mostly carried out in the research groups led by Misao Sasaki and Masahiro Takada. Prior to coming here I was a [de Sitter PhD fellow](http://leidendesitter.nl/de_Sitter/Welcome.html) at the [Lorentz Institute of Theoretical Physics](https://www.lorentz.leidenuniv.nl/) and at [Sterrewacht Leiden](https://local.strw.leidenuniv.nl/)supervised by Ana Achucarro and Alessandra Silvestri. I have done my undergraduate studies at the faculty of physics of Yerevan State University, Armenia and my master studies at the Institute for Theoretical Physics, Heidelberg. For more details on my academic biography see [my CV](../_files/Valeri_Vardanyan_CV.pdf).
 
 
 
