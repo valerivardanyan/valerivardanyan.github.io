@@ -1,5 +1,5 @@
 ---
-layout: layout_research
+layout: Research_layout
 title: Research
 permalink: /research/
 ---

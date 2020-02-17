@@ -1,5 +1,5 @@
 ---
-layout: layout_contact
+layout: Contact_layout
 title: Contact
 permalink: /contact/
 ---
