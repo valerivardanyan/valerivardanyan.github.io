@@ -1,0 +1,14 @@
+# Site Settings
+title: Welcome
+email: vardanyanv@gmail.com
+description: >
+  My personal website.
+baseurl: ""
+url: "http://valerivardanyan.github.io"
+github_username:  valerivardanyan
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
