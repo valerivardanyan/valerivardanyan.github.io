@@ -10,4 +10,4 @@ I am a cosmologist at Kavli IPMU. My work is mostly carried out in the research 
 Besides the PhD research I have been a teaching assistant of several courses in Leiden, namely Effective Field Theory, Quantum Field Theory, Quantum Mechanics (Part 2) and Classical Electrodynamics. I have also co-supervised several master students.
 
 
-In case of questions or remarks do not hesitate to contact me via [valeri.vardanyan@ipmu.jp](valeri.vardanyan@ipmu.jp).
+In case of questions or remarks do not hesitate to contact me via [valeri.vardanyan@ipmu.jp](mailto:valeri.vardanyan@ipmu.jp).
