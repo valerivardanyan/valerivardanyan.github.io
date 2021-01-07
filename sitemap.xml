@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://valerivardanyan.github.io/about.html</loc>
+    <loc>https://valerivardanyan.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://valerivardanyan.github.io/categories.html</loc>
+    <loc>https://valerivardanyan.github.io/categories/</loc>
   </url>
   
   <url>
@@ -16,11 +16,11 @@
   </url>
   
   <url>
-    <loc>https://valerivardanyan.github.io/series.html</loc>
+    <loc>https://valerivardanyan.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>https://valerivardanyan.github.io/tags.html</loc>
+    <loc>https://valerivardanyan.github.io/tags/</loc>
   </url>
   
 </urlset>
