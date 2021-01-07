@@ -9,12 +9,29 @@
     <item>
       <title>About</title>
       <link>https://valerivardanyan.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://valerivardanyan.github.io/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>I am a cosmologist at Kavli IPMU. My work is mostly carried out in the research groups led by Misao Sasaki and Masahiro Takada. Prior to coming here I was a de Sitter PhD fellow at the Lorentz Institute of Theoretical Physics and at Sterrewacht Leiden supervised by Ana Achucarro and Alessandra Silvestri. I have done my undergraduate studies at the faculty of physics of Yerevan State University, Armenia and my master studies at the Institute for Theoretical Physics, Heidelberg.</description>
+    </item>
+    
+    <item>
+      <title>arXived physics</title>
+      <link>https://valerivardanyan.github.io/04_arxived_physics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valerivardanyan.github.io/04_arxived_physics/</guid>
+      <description>This is a new science outreach initiative I am starting with my friend. It is still in a preliminary stage, so stay tuned for it&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://valerivardanyan.github.io/02_research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://valerivardanyan.github.io/02_research/</guid>
+      <description>Screening mechanisms in theories of modified gravity. I am studying screening mechanisms using analytical and numerical methods. My interest in this area is concentrated on applications to cosmological, astrophysical and laboratory configurations, both static and time dependent.
+ Quintessential inflation. I am particularly interested in quintessential inflationary scenarios (inflation-dark energy connection). I have worked on a realization of this idea in the framework of inflationary alpha-attractors. In this context I am also interested in physics of reheating.</description>
     </item>
     
   </channel>
